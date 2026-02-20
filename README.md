@@ -20,4 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ElasticSearch" alt="ElasticSearch" width=40 height=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRPC" alt="gRPC" width=40 height=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width=40 height=40>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width=40 height=40 />
+          
+
+          
 </div>
