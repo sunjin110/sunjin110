@@ -3,6 +3,7 @@
 ### About me :
 - I am a Go developer.
 - バックエンド全般の開発が可能
+- クォッカ大好き
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
